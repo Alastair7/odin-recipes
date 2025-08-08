@@ -1,0 +1,14 @@
+.title {
+	color: teal;
+	text-align: center;
+}
+
+.menu {
+	margin-left: 250px;
+}
+
+.menu-item {
+	display: inline-block;
+	margin: 0 8px;
+	padding: 4px;
+}
